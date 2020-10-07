@@ -1,0 +1,1 @@
+@py.exe C:\Users\ckn32\work\退屈なことはPythonにやらせよう\lucky.py %*
